@@ -1,0 +1,600 @@
+Uri: https://fonts.googleapis.com/css2?family=Russo+One&display=swap
+File Name: C:\Downloaded Web Sites\themejunction.net\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\themejunction.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/russoone/v16/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\s\russoone\v16\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\s\sora\v12\xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf
+Content Type: font/ttf
+
+Uri: https://themejunction.net/html/gerold/demo/about-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\about-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/about.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\about.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/backToTop.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\backToTop.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/flaticon_gerold.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\flaticon_gerold.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/font-awesome-pro.min.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\font-awesome-pro.min.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/light-mode.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\light-mode.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/main-2.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\main-2.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/main-3.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\main-3.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/main.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\main.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/nice-select.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/odometer-theme-default.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\odometer-theme-default.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/responsive-2.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\responsive-2.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/responsive-3.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\responsive-3.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-duotone-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-sharp-light-300.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-sharp-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-sharp-light-300.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-sharp-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-sharp-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-sharp-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-sharp-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-sharp-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-sharp-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-sharp-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-sharp-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-sharp-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-thin-100.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/flaticon_gerold.eot?9ece749f93b45dc5cc6e2c206d60c453
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\flaticon_gerold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/flaticon_gerold.svg?9ece749f93b45dc5cc6e2c206d60c453
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\flaticon_gerold.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/flaticon_gerold.ttf?9ece749f93b45dc5cc6e2c206d60c453
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\flaticon_gerold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/flaticon_gerold.woff2?9ece749f93b45dc5cc6e2c206d60c453
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\flaticon_gerold.woff2
+Content Type: font/woff2
+
+Uri: https://themejunction.net/html/gerold/demo/assets/fonts/flaticon_gerold.woff?9ece749f93b45dc5cc6e2c206d60c453
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\fonts\flaticon_gerold.woff
+Content Type: application/font-woff
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/1.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/2.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/3.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/blog-1.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/blog-2.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/blog-3.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/blog-4.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/post-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\post-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/post-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\post-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/post-thumb-3.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\post-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/user-1.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\user-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/user-2.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\user-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/user-3.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\user-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/blog/user-4.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\blog\user-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-1.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-2.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-2.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-3.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-3.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-4.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-4.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-5.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-5.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-6.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-6.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-l-1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-l-1.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-l-2.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-l-2.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-l-3.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-l-3.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-l-4.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-l-4.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-l-5.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-l-5.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/brand/brand-l-6.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\brand\brand-l-6.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/hero/about-1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\hero\about-1.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/hero/hero-2.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\hero\hero-2.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/hero/me.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\hero\me.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/down-arrow-light.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\down-arrow-light.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/down-arrow.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\down-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/figma.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\figma.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/js.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\js.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/react.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\react.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/sketch.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\sketch.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/star.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\star.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/wp.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\wp.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/icons/xd.svg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\icons\xd.svg
+Content Type: image/svg+xml
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\logo\logo-dark.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio-gallery/p-gallery-1.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio-gallery\p-gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio-gallery/p-gallery-2.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio-gallery\p-gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio-gallery/p-gallery-3.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio-gallery\p-gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio-gallery/p-gallery-4.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio-gallery\p-gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio/Orange1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio/ddddd.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio/Blue Unlock .png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio/rp.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/portfolio/modal-img.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\portfolio\modal-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/project/project-1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\project\project-1.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/project/project-2.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\project\project-2.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/project/project-3.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\project\project-3.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/project/project-4.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\project\project-4.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/project/project-5.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\project\project-5.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/services/modal-img.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\services\modal-img.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/logo/1-dark.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\logo\1-dark.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/logo/1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\logo\1.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/logo/2-dark.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\logo\2-dark.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/logo/2.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\logo\2.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/user/1.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\user\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/user/1.png
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\user\1.png
+Content Type: image/png
+
+Uri: https://themejunction.net/html/gerold/demo/assets/img/testimonials/user/2.jpg
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\img\testimonials\user\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/appear.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\appear.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/backToTop.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\backToTop.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\gsap.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/imagesloaded-pkgd.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\imagesloaded-pkgd.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/lenis.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\lenis.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/lightcase.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\lightcase.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/magnific-popup.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\magnific-popup.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/main.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/meanmenu.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\meanmenu.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/nice-select.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\nice-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/odometer.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\odometer.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\ScrollTrigger.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/validate.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://themejunction.net/html/gerold/demo/blog-details-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\blog-details-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/blog-details.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\blog-details.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/blog-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\blog-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/#
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\#
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/contact-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\contact-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/contact.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\contact.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/index-2-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\index-2-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/index-2.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\index-2.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/index-3-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\index-3-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/index-3.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\index-3.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/index-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\index-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/index.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\index.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/portfolio-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\portfolio-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/portfolio.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\portfolio.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/services-light.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\services-light.html
+Content Type: text/html
+
+Uri: https://themejunction.net/html/gerold/demo/services.html
+File Name: C:\Downloaded Web Sites\themejunction.net\html\gerold\demo\services.html
+Content Type: text/html
+
